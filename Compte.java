@@ -23,7 +23,7 @@ public class Compte {
     }
     
     public void afficher(){
-        System.out.println("votre solde est " + this.solde + "Euro Sauf erreur ou omission");
+        System.out.println("votre solde est " + this.solde + "Euro Sauf erreur");
     }
     
 }
